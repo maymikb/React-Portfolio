@@ -18,7 +18,8 @@ This text editor app is for developers to create and retrieve notes and code sni
 <div>Package-lock.json</div>
 
 ## Screenshot
-![](./JATEscreenshot.png)
+![](./RenderScreenshot.png)
+
 
 ## Link
 https://connectioncorrection.onrender.com/
